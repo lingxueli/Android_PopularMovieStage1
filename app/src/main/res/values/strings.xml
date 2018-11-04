@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies 1</string>
+    <string name="error_message">Failed to get results. Please try again. </string>
+    <!-- details -->
+    <string name="detail_title">Matrix</string>
+    <string name="detail_plot_synopsis">A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.</string>
+    <string name="detail_rate">5.0</string>
+    <string name="detail_release_date">1999 holy moly</string>
+    <!-- menu -->
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="action_about">About</string>
+    <!--detail-->
+    <string name="label_rate">Rate: </string>
+    <string name="label_release_date">Release Date: </string>
+    <string name="label_overview">Overview: </string>
+</resources>
